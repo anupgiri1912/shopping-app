@@ -54,7 +54,6 @@ useEffect(()=>{
     </div>
 
 
-
    </div>) :
    (<div className="w-screen h-[calc(100vh-80px)] flex flex-col gap-6 justify-center items-center">
    <h1 className="font-[600] text-xl">Your Cart is Empty !</h1>

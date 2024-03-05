@@ -22,17 +22,10 @@ const Navbar = () => {
            alt=""/>
           </div>
           </NavLink>
-
-
           <div className="flex items-center  font-medium text-slate-100 mr-5 space-x-6">
-
-
-
-            <NavLink to="/"> 
+           <NavLink to="/"> 
             <p>Home</p>
             </NavLink>
-
-
             <NavLink to="/cart">
               <div className="relative">
             <FaShoppingCart className="text-2xl" />

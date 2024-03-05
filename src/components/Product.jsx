@@ -48,7 +48,7 @@ const Product = ({post}) => {
          p-1 px-3 uppercase hover:bg-gray-700 hover:text-white transition duration-300 ease-in"
         onClick={removeFromCart}>
           Remove Item
-        </button>) :
+         </button>) :
          (<button 
           className="text-gray-700 border-2 border-gray-700 rounded-full   font-semibold text-[12px]
           p-1 px-3 uppercase hover:bg-gray-700 hover:text-white transition duration-300 ease-in"
