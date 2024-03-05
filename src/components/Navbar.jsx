@@ -17,7 +17,9 @@ const Navbar = () => {
 
         <NavLink to="/">
           <div className="ml-5 "> 
-          <img src="../logo.png" className="lg:h-14 md:h-10 h-8" alt=""/>
+          <img src="https://ecomzy-shopping-cart.vercel.app/logo.png" 
+          className="lg:h-14 md:h-10 h-8"
+           alt=""/>
           </div>
           </NavLink>
 
